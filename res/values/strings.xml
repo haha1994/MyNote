@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MyColorNote!</string>
+    <string name="app_name">MyColorNote</string>
+    <string name="widget_string">MyColorNote</string>
+    <string name="note_title">Please Input Note Content:</string>
+    <string name="edithint">input str here~</string>
+    <string name="sure">确定</string>
+</resources>
